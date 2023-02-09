@@ -1,6 +1,6 @@
-package pluralsight.service;
+package com.pluralsight.service;
 
-import pluralsight.model.Speaker;
+import com.pluralsight.model.Speaker;
 
 import java.util.List;
 
